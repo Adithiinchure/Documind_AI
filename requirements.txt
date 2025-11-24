@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+PyPDF2
+langchain
+langchain_groq
+langchain-community
+chromadb
+requests
